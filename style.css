@@ -1,0 +1,63 @@
+.main-header{
+    background-color:darkgrey;
+    color:white;
+    letter-spacing:0.2em;
+    font-size:25px;
+
+}
+.h1{
+    background-color:darkgrey;
+    color:black;
+    letter-spacing:0.2em;
+    background-image:url('newyear.jpeg');
+    background-position:center right;
+    min-height:200px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.navbar{
+    text-decoration:none;
+}
+.ul{
+    list-style:none;
+    text-decoration:none;
+}
+.navbar li{
+    text-decoration:none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display:inline;
+}
+li{
+    background-color:purple;
+    color:white;
+    font-size:22px;
+    text-decoration:none;
+    display:inline;
+    border-radius:5px;
+}
+a{
+    text-decoration:none;
+    color:white;
+}
+a:hover{
+    color:red;
+}
+.navbar1{
+    color:#fff;
+    font-size:18px;
+    padding-right:15px;
+}
+.class{
+    padding-right:400px;
+}
+
+.input{
+    padding-left:180px;
+    padding-top:20px;
+}
+.container{
+    background-color:coral;
+}
+.body{
+    background-color: lightgray         ;
+}
