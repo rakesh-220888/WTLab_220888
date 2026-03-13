@@ -3,7 +3,7 @@
 $data = json_decode(file_get_contents("php://input"), true);
 $token = $data['token'];
 
-$apiKey = "AIzaSyDQeCqzgvbJ1r2Ek0g5YqRgdiqm4uyHPVY"; 
+$apiKey = "my api key"; 
 
 $url = "https://identitytoolkit.googleapis.com/v1/accounts:lookup?key=" . $apiKey;
 

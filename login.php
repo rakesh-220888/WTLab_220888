@@ -1,6 +1,6 @@
 <?php
 
-$client_id = "557725475538-fc0u6d2ajunigua2gn2ehq24pqs9nspi.apps.googleusercontent.com";
+$client_id = "my client id";
 $redirect_uri = "http://localhost/PROJECT/lab/google.php";
 $scope = "email profile";
 
