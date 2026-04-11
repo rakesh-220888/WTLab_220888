@@ -8,6 +8,7 @@ This document explains commonly used Git commands with Command Name, Syntax, Pur
 ## 1. Git Configuration Commands
 
 ### git config --global user.name
+![config user name]((screenshots/7.png))
 Syntax:
 git config --global user.name "Your Name"
 
@@ -18,6 +19,7 @@ Example:
 git config --global user.name "Rahul Kumar"
 
 ### git config --global user.email
+![config user email](screenshots/8.png)
 Syntax:
 git config --global user.email "email@example.com"
 
@@ -52,6 +54,7 @@ git config --global --unset user.name
 ## 2. Repository Setup Commands
 
 ### git init
+![git init](screenshots/3.png)
 Syntax:
 git init
 
@@ -62,6 +65,7 @@ Example:
 git init
 
 ### git clone
+![git clone](screenshots/5.png)
 Syntax:
 git clone repository-url
 
@@ -72,6 +76,7 @@ Example:
 git clone https://github.com/user/project.git
 
 ### git clone --branch
+![git branch](screenshots/6.png)
 Syntax:
 git clone --branch branch-name repository-url
 
@@ -96,6 +101,7 @@ git clone --depth 1 https://github.com/user/project.git
 ## 3. Repository Status & Inspection
 
 ### git status
+
 Syntax:
 git status
 
